@@ -19,7 +19,7 @@ A simple command-line Java application that fetches and displays weather informa
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/duhitsayu/WeatherApp.git
-2. **Download the required `json.jar` **:
+2. **Download the required** `json.jar`:
     -Download `json-20240303.jar` from Maven Repository.
     -Place the `json-20240303.jar` in your project directory.
 
