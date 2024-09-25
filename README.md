@@ -29,7 +29,7 @@ A simple command-line Java application that fetches and displays weather informa
    
 4. **Run the project**:
    ```bash
-   java -cp .;json-20210307.jar WeatherApp 
+   java -cp .;json-20240303.jar WeatherApp 
 
 ## Usage
 
