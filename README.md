@@ -53,6 +53,6 @@ A simple command-line Java application that fetches and displays weather informa
 Feel free to contribute to this project by forking the repository and submitting a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is open-source and available under the [`MIT License`].
+This project is open-source and available under the [`MIT License`](https://opensource.org/license/mit)
 
     
