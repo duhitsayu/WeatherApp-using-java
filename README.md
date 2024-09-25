@@ -38,6 +38,7 @@ A simple command-line Java application that fetches and displays weather informa
 -The weather data (temperature, humidity, and condition) will be displayed.
 
 ## Screenshot
+ ![Screenshot 2024-09-25 151835](https://github.com/user-attachments/assets/db8a63bf-39dc-4c93-97fc-5ca3693ca77c)
 
 
 ## Dependencies
