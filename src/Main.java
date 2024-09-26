@@ -8,7 +8,7 @@ import java.net.URL;
 import org.json.JSONObject;
 
 public class Main {
-    private static final String API_KEY = "e33a985a6c00abbb2fad8d1d8f4eb9b1";
+    private static final String API_KEY = "[YOUR_API_KEY]";
     private static final String API_URL = "http://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s&units=metric";
 
     public static void main(String[] args) {
